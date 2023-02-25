@@ -16,12 +16,20 @@
       <div class="row">
         <div class="col-12">
           <header>
-
+            Header Cabeçalho
           </header>
+        </div>
       </div>
+      <div class="row">
+        <div class="col-4">
+          <nav> Menu </nav>
+        </div>
+        <div class="col-8">
+          <main> Conteúdo </main>
+        <div>
+      </div>
+  <div>
 
 
-      
-  </div>
-
+</body>
   
